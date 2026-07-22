@@ -83,8 +83,8 @@
 
 | Файл | Описание |
 | --- | --- |
-| `sql/game_purchases_analysis.sql` | SQL-запросы для исследовательского анализа данных и решения ad hoc-задачи |
-| `report/game_purchases_analysis_report.pdf` | Аналитическая записка с выводами и рекомендациями |
+| [game_purchases_analysis.sql](sql/game_purchases_analysis.sql) | SQL-запросы для исследовательского анализа данных и решения ad hoc-задачи |
+| [game_purchases_analysis_report.pdf](report/game_purchases_analysis_report.pdf) | Аналитическая записка с выводами и рекомендациями |
 
 ---
 
