@@ -99,6 +99,17 @@ Yandex DataLens: https://datalens.yandex/wq2gu442ls9kg
 
 ---
 
+## Структура проекта
+
+| Файл | Описание |
+| --- | --- |
+| `images/01-dashboard-summary.png` | Главная страница дашборда с KPI-показателями и фильтрами |
+| `images/02-talks-and-tags-analysis.png` | Анализ популярных выступлений и тематик |
+| `images/03-speakers-analysis.png` | Анализ выступающих по роду деятельности |
+| `images/04-talk-details.png` | Детальная информация по отдельным выступлениям |
+
+---
+
 ## Демонстрация дашборда
 
 ### Главная страница дашборда
@@ -116,22 +127,6 @@ Yandex DataLens: https://datalens.yandex/wq2gu442ls9kg
 ### Детальная информация о выступлениях
 
 ![Детальная информация о выступлениях](images/04-talk-details.png)
-
----
-
-## Структура проекта
-
-```
-03-ted-dashboard/
-
-├── README.md
-│
-└── images/
-    ├── 01-dashboard-summary.png
-    ├── 02-talks-and-tags-analysis.png
-    ├── 03-speakers-analysis.png
-    └── 04-talk-details.png
-```
 
 ---
 
