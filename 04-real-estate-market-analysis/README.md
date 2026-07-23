@@ -120,28 +120,28 @@ Yandex DataLens: https://datalens.yandex/micwdmdbqr2o6
 | --- | --- |
 | [real-estate-market-analysis.sql](sql/real-estate-market-analysis.sql) | SQL-запросы для подготовки данных и проведения анализа |
 | [real-estate-market-analysis-report.pdf](report/real-estate-market-analysis-report.pdf) | Аналитическая записка с выводами и рекомендациями |
-| `dashboard-screenshots/01-dashboard-market-analytics-overview.png` | Основная страница дашборда с ключевыми показателями рынка |
-| `dashboard-screenshots/02-dashboard-market-analytics-top-segments.png` | Анализ лидирующих населенных пунктов и сегментов рынка |
-| `dashboard-screenshots/03-dashboard-market-details-price-analysis.png` | Детализация средней стоимости квадратного метра |
-| `dashboard-screenshots/04-dashboard-market-details-seasonality.png` | Анализ сезонности публикации объявлений |
+| `images/01-dashboard-market-analytics-overview.png` | Основная страница дашборда с ключевыми показателями рынка |
+| `images/02-dashboard-market-analytics-top-segments.png` | Анализ лидирующих населенных пунктов и сегментов рынка |
+| `images/03-dashboard-market-details-price-analysis.png` | Детализация средней стоимости квадратного метра |
+| `images/04-dashboard-market-details-seasonality.png` | Анализ сезонности публикации объявлений |
 
 ## Демонстрация дашборда
 
 ### Главная страница дашборда
 
-![Главная страница дашборда](dashboard-screenshots/01-dashboard-market-analytics-overview.png)
+![Главная страница дашборда](images/01-dashboard-market-analytics-overview.png)
 
 ### Анализ основных сегментов рынка
 
-![Анализ основных сегментов рынка](dashboard-screenshots/02-dashboard-market-analytics-top-segments.png)
+![Анализ основных сегментов рынка](images/02-dashboard-market-analytics-top-segments.png)
 
 ### Детализация стоимости квадратного метра
 
-![Детализация стоимости квадратного метра](dashboard-screenshots/03-dashboard-market-details-price-analysis.png)
+![Детализация стоимости квадратного метра](images/03-dashboard-market-details-price-analysis.png)
 
 ### Сезонность публикации объявлений
 
-![Сезонность публикации объявлений](dashboard-screenshots/04-dashboard-market-details-seasonality.png)
+![Сезонность публикации объявлений](images/04-dashboard-market-details-seasonality.png)
 
 ## Автор
 
