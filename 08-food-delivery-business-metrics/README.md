@@ -83,7 +83,7 @@ Yandex DataLens: https://datalens.yandex/w6o3q5vgjrjwg
 | [business-metrics.sql](sql/business-metrics.sql) | SQL-запросы для расчёта ключевых бизнес-метрик и построения дашборда |
 | `images/01-daily-active-users.png` | График ежедневной активности пользователей (DAU) |
 | `images/02-conversion-and-ltv-analysis.png` | Анализ конверсии пользователей и показателей LTV |
-| `images/03-average-order-value-and-retention` | Анализ среднего чека и удержания пользователей |
+| `images/03-average-order-value-and-retention.png` | Анализ среднего чека и удержания пользователей |
 
 ## Демонстрация дашборда
 
@@ -101,7 +101,7 @@ Yandex DataLens: https://datalens.yandex/w6o3q5vgjrjwg
 
 ### Средний чек и удержание пользователей
 
-![Средний чек и удержание пользователей](images/03-average-order-value-and-retention)
+![Средний чек и удержание пользователей](images/03-average-order-value-and-retention.png)
 
 ## Автор
 
