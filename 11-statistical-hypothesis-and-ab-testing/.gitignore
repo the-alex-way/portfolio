@@ -1,0 +1,13 @@
+# Исходные данные 
+data/
+
+# Временные файлы Jupyter Notebook
+.ipynb_checkpoints/
+
+# Системные файлы Windows
+Thumbs.db
+Desktop.ini
+
+# Временные файлы Python
+__pycache__/
+*.pyc
